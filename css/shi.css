@@ -1,4 +1,36 @@
+#topim::after {
+	content: "";
+	background: url(../images/birds.svg);
+	background-size: cover;
+	/*background-attachment: contain;*/
+	/*background-color: #E3FAF8;*/
+	/*color: #999;*/
+	top: 0;
+  	left: 0;
+  	bottom: 0;
+  	right: 0;
+	opacity: 0.2;
+	z-index: -1;
+	position: absolute;
+}
+
 #topim {
-	background-color: #E3FAF8;
-	color: #999;
+	padding-top: 5vh;
+	height: 35vh;
+	width: 100%;
+	background: rgba(110, 110, 110, .15);
+}
+
+.navbar {
+    margin-bottom: 0;
+}
+
+#pg {
+	width: 100%;
+	height: 100vh;
+}
+
+body {
+	/*width:  100%;*/
+	padding-top: 30px;
 }
