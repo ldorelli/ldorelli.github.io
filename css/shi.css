@@ -32,4 +32,29 @@
 body {
 	/*width:  100%;*/
 	padding-top: 30px;
+	font-family: 'PT Sans', sans-serif;
+}
+
+.world-flag {
+	/*width: 100px;*/
+	/*height: 50px;*/
+}
+
+.german-text {
+	/*color: #AB4933;*/
+}
+
+.text-content {
+	font-size: 20px;
+	padding-left: 10px;
+}
+
+.about-me {
+	padding-top: 10px;
+	font-size: 15px;
+}
+
+.aboutme-ul {
+    list-style-type: circle;
+    font-size: 15px;
 }
