@@ -9,14 +9,13 @@
   	left: 0;
   	bottom: 0;
   	right: 0;
-	opacity: 0.2;
+	opacity: 0.3;
 	z-index: -1;
 	position: absolute;
 }
 
 #topim {
 	padding-top: 5vh;
-	height: 35vh;
 	width: 100%;
 	background: rgba(110, 110, 110, .15);
 }
